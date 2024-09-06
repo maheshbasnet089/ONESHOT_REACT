@@ -1,9 +1,9 @@
 
 
-function Button(haha){
+function Button({hehe}){
 
     return(
-        <button>{haha.hehe}</button>
+        <button>{hehe}</button>
     )
 }
 
